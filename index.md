@@ -19,7 +19,7 @@ Before CUHK, I was an undergraduate at [Huazhong University of Science and Techn
 1. A Representation Learning Framework for Property Graphs
 Yifan Hou, Hongzhi Chen, Changji Li, James Cheng, Ming-Chang Yang.
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**) 2019.
-[\[paper\]](link: "pge-kdd.pdf") [\[code\]](https://github.com/yifan-h/PGE)
+[\[paper\]](https://github.com/yifan-h/yifan-h.github.io/blob/master/pge-kdd.pdf) [\[code\]](https://github.com/yifan-h/PGE)
 
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
